@@ -8,7 +8,7 @@ import random
 
 app = dash.Dash(
     __name__,
-    external_stylesheets=[dbc.themes.BOOTSTRAP,"https://use.fontawesome.com/releases/v5.15.4/css/all.css"],
+    external_stylesheets=[dbc.themes.BOOTSTRAP,],
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}]
 )
 
