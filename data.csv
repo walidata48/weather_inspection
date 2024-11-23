@@ -1,0 +1,1001 @@
+Accident_ID,Region,Weather_Condition,Time_of_Day,Severity,Year,Number_of_Vehicles_Involved,Casualties,Region_Temperature,state_code
+1,Idaho,Thunderstorm,Morning,Fatal,2021,2,5,-1.1,ID
+2,Virginia,Fog,Night,Serious,2022,2,7,39.3,VA
+3,New Mexico,Fog,Evening,Fatal,2020,2,5,22.1,NM
+4,Alabama,Snow,Evening,Serious,2019,3,4,11.1,AL
+5,Nebraska,Rain,Afternoon,Minor,2022,1,2,38.5,NE
+6,South Dakota,Snow,Night,Serious,2018,3,3,9.6,SD
+7,Georgia,Fog,Evening,Minor,2022,4,4,21.4,GA
+8,Maine,Snow,Evening,Fatal,2019,4,4,16.5,ME
+9,Illinois,Thunderstorm,Evening,Minor,2018,5,7,15.4,IL
+10,West Virginia,Thunderstorm,Night,Fatal,2019,4,10,24.4,WV
+11,Vermont,Rain,Morning,Fatal,2020,3,9,21.3,VT
+12,Rhode Island,Snow,Evening,Serious,2019,3,9,1.3,RI
+13,Virginia,Snow,Morning,Serious,2018,5,8,32.5,VA
+14,Illinois,Thunderstorm,Afternoon,Fatal,2019,2,1,31.1,IL
+15,South Dakota,Thunderstorm,Morning,Fatal,2019,2,5,33.8,SD
+16,California,Snow,Afternoon,Fatal,2021,3,0,17.8,CA
+17,Mississippi,Fog,Morning,Fatal,2018,5,2,-2.0,MS
+18,Washington,Clear,Morning,Minor,2018,5,6,21.1,WA
+19,Wisconsin,Clear,Evening,Fatal,2022,3,7,-6.2,WI
+20,New Mexico,Thunderstorm,Afternoon,Fatal,2019,4,7,17.5,NM
+21,Louisiana,Thunderstorm,Night,Fatal,2021,4,3,14.5,LA
+22,New York,Clear,Evening,Fatal,2019,2,3,13.0,NY
+23,Nevada,Fog,Evening,Serious,2022,2,2,16.1,NV
+24,Connecticut,Thunderstorm,Evening,Fatal,2019,3,1,0.6,CT
+25,Wisconsin,Fog,Morning,Fatal,2019,5,1,-4.7,WI
+26,Hawaii,Clear,Evening,Minor,2018,2,0,21.8,HI
+27,Delaware,Clear,Afternoon,Fatal,2018,5,6,14.6,DE
+28,Colorado,Snow,Night,Fatal,2019,5,4,39.6,CO
+29,Mississippi,Snow,Afternoon,Fatal,2019,4,4,-7.0,MS
+30,Massachusetts,Snow,Afternoon,Minor,2018,4,3,1.8,MA
+31,Massachusetts,Snow,Evening,Fatal,2019,2,9,34.6,MA
+32,Arkansas,Snow,Afternoon,Serious,2022,5,2,31.1,AR
+33,Michigan,Rain,Morning,Minor,2019,4,6,6.2,MI
+34,Texas,Clear,Afternoon,Minor,2021,1,7,29.2,TX
+35,Mississippi,Fog,Evening,Fatal,2021,5,5,3.4,MS
+36,Alabama,Snow,Evening,Minor,2019,3,0,2.6,AL
+37,New Jersey,Fog,Morning,Minor,2022,2,4,26.3,NJ
+38,New Hampshire,Snow,Morning,Serious,2019,2,1,17.8,NH
+39,Texas,Clear,Evening,Minor,2022,2,8,-5.8,TX
+40,Alabama,Thunderstorm,Morning,Serious,2022,2,8,16.9,AL
+41,North Dakota,Thunderstorm,Evening,Serious,2019,4,3,39.8,ND
+42,Washington,Snow,Night,Minor,2021,3,0,24.8,WA
+43,Delaware,Clear,Night,Minor,2022,1,3,12.0,DE
+44,Massachusetts,Snow,Afternoon,Fatal,2022,5,3,33.8,MA
+45,Alaska,Fog,Afternoon,Fatal,2021,4,6,2.6,AK
+46,New Hampshire,Snow,Morning,Minor,2021,1,2,39.3,NH
+47,Colorado,Clear,Afternoon,Minor,2018,5,0,32.0,CO
+48,Oklahoma,Fog,Morning,Serious,2021,1,2,-9.4,OK
+49,Mississippi,Thunderstorm,Evening,Serious,2018,3,9,36.6,MS
+50,New Mexico,Snow,Morning,Serious,2018,2,4,4.9,NM
+51,North Dakota,Rain,Night,Serious,2020,2,8,8.0,ND
+52,Missouri,Snow,Morning,Minor,2021,3,3,17.6,MO
+53,Minnesota,Thunderstorm,Morning,Minor,2021,4,9,26.3,MN
+54,Delaware,Snow,Night,Serious,2018,5,9,25.0,DE
+55,California,Rain,Night,Serious,2022,5,0,-2.8,CA
+56,Florida,Fog,Morning,Fatal,2022,5,6,18.0,FL
+57,Texas,Clear,Afternoon,Serious,2022,1,9,-10.0,TX
+58,Washington,Fog,Evening,Fatal,2022,4,1,22.5,WA
+59,Massachusetts,Snow,Evening,Serious,2018,2,0,8.0,MA
+60,Minnesota,Rain,Afternoon,Minor,2021,2,2,4.0,MN
+61,Arkansas,Rain,Evening,Serious,2022,3,4,13.1,AR
+62,Tennessee,Fog,Evening,Serious,2020,5,3,39.8,TN
+63,Michigan,Snow,Evening,Minor,2018,4,7,34.5,MI
+64,Florida,Fog,Night,Minor,2022,1,3,31.3,FL
+65,Washington,Fog,Afternoon,Fatal,2018,5,8,-4.2,WA
+66,West Virginia,Snow,Night,Minor,2019,3,3,18.9,WV
+67,Arkansas,Snow,Afternoon,Minor,2019,4,4,21.9,AR
+68,Pennsylvania,Snow,Morning,Minor,2020,5,2,7.3,PA
+69,Idaho,Snow,Evening,Minor,2021,5,1,38.0,ID
+70,West Virginia,Clear,Night,Serious,2021,1,1,13.2,WV
+71,Minnesota,Rain,Morning,Serious,2018,4,3,14.0,MN
+72,Tennessee,Clear,Night,Fatal,2021,1,8,36.1,TN
+73,South Carolina,Clear,Night,Fatal,2020,5,0,22.8,SC
+74,Kansas,Snow,Evening,Serious,2018,3,8,7.9,KS
+75,Vermont,Snow,Evening,Minor,2020,1,4,-5.5,VT
+76,Oklahoma,Thunderstorm,Evening,Serious,2020,2,6,17.4,OK
+77,Illinois,Clear,Afternoon,Serious,2022,4,7,33.2,IL
+78,North Carolina,Fog,Night,Serious,2021,5,9,33.8,NC
+79,Maine,Snow,Evening,Fatal,2022,4,7,-6.0,ME
+80,California,Fog,Evening,Minor,2019,4,6,38.3,CA
+81,Massachusetts,Thunderstorm,Night,Minor,2021,4,6,36.7,MA
+82,Colorado,Rain,Morning,Fatal,2018,1,0,5.4,CO
+83,Wyoming,Thunderstorm,Night,Minor,2018,5,3,36.5,WY
+84,Florida,Fog,Afternoon,Fatal,2022,1,6,11.7,FL
+85,Kansas,Snow,Night,Fatal,2020,4,9,12.6,KS
+86,Ohio,Rain,Morning,Serious,2022,3,8,3.2,OH
+87,Oklahoma,Fog,Afternoon,Serious,2020,4,2,24.6,OK
+88,Tennessee,Thunderstorm,Afternoon,Fatal,2018,4,7,12.6,TN
+89,Oregon,Rain,Afternoon,Fatal,2021,1,5,15.9,OR
+90,Iowa,Rain,Night,Serious,2021,5,4,30.2,IA
+91,Pennsylvania,Rain,Evening,Minor,2021,3,4,5.7,PA
+92,Rhode Island,Fog,Afternoon,Fatal,2019,3,2,10.9,RI
+93,Tennessee,Rain,Night,Serious,2022,2,6,6.3,TN
+94,California,Fog,Afternoon,Serious,2020,4,6,34.4,CA
+95,Colorado,Snow,Morning,Minor,2022,4,3,29.9,CO
+96,Delaware,Fog,Afternoon,Fatal,2019,1,7,29.3,DE
+97,Idaho,Rain,Morning,Minor,2020,1,1,11.3,ID
+98,Louisiana,Thunderstorm,Evening,Minor,2021,2,6,3.2,LA
+99,New Hampshire,Snow,Evening,Fatal,2019,5,9,30.1,NH
+100,California,Clear,Evening,Serious,2018,2,4,19.6,CA
+101,Georgia,Clear,Afternoon,Minor,2018,3,6,-3.1,GA
+102,Utah,Clear,Morning,Fatal,2018,2,1,31.6,UT
+103,Delaware,Fog,Morning,Minor,2020,4,8,-4.4,DE
+104,Delaware,Clear,Evening,Fatal,2022,1,6,21.9,DE
+105,New Hampshire,Rain,Afternoon,Minor,2019,3,10,29.8,NH
+106,Rhode Island,Clear,Evening,Fatal,2022,5,7,24.1,RI
+107,California,Clear,Night,Fatal,2018,4,3,10.7,CA
+108,Vermont,Clear,Night,Minor,2022,4,2,11.6,VT
+109,North Dakota,Snow,Night,Serious,2020,5,0,26.4,ND
+110,Virginia,Rain,Night,Fatal,2021,4,5,-6.1,VA
+111,Arizona,Snow,Evening,Fatal,2020,1,1,-6.2,AZ
+112,Maine,Rain,Evening,Serious,2021,1,7,7.2,ME
+113,Alaska,Fog,Morning,Fatal,2021,4,6,-2.0,AK
+114,Hawaii,Fog,Afternoon,Fatal,2020,3,5,5.8,HI
+115,Nevada,Clear,Afternoon,Minor,2018,5,6,11.3,NV
+116,New Jersey,Snow,Evening,Minor,2021,4,3,30.0,NJ
+117,Montana,Rain,Morning,Serious,2019,3,4,-5.7,MT
+118,Hawaii,Thunderstorm,Evening,Serious,2022,1,1,0.7,HI
+119,Arizona,Snow,Morning,Fatal,2021,4,7,28.4,AZ
+120,Illinois,Snow,Evening,Fatal,2020,4,5,17.9,IL
+121,South Dakota,Snow,Night,Minor,2018,2,1,21.3,SD
+122,North Dakota,Thunderstorm,Afternoon,Minor,2022,4,10,10.0,ND
+123,Utah,Snow,Night,Minor,2018,1,6,38.7,UT
+124,Georgia,Snow,Evening,Minor,2022,2,0,3.1,GA
+125,Illinois,Thunderstorm,Afternoon,Minor,2022,4,8,3.5,IL
+126,Kentucky,Thunderstorm,Morning,Fatal,2021,2,10,23.4,KY
+127,Massachusetts,Thunderstorm,Evening,Fatal,2019,2,5,-4.8,MA
+128,New York,Clear,Evening,Fatal,2019,1,4,-2.4,NY
+129,Maine,Rain,Afternoon,Minor,2019,1,2,20.9,ME
+130,Rhode Island,Snow,Morning,Fatal,2020,2,4,1.8,RI
+131,Oregon,Snow,Morning,Minor,2020,3,4,34.0,OR
+132,Kentucky,Clear,Afternoon,Fatal,2021,5,0,-6.5,KY
+133,Michigan,Thunderstorm,Evening,Minor,2019,3,6,1.9,MI
+134,New York,Fog,Afternoon,Minor,2020,1,8,-1.5,NY
+135,North Dakota,Clear,Morning,Minor,2018,4,8,20.9,ND
+136,Tennessee,Clear,Morning,Fatal,2018,5,7,-1.6,TN
+137,North Carolina,Thunderstorm,Morning,Fatal,2021,4,7,-6.0,NC
+138,Oklahoma,Fog,Morning,Serious,2020,5,9,-2.7,OK
+139,Ohio,Thunderstorm,Afternoon,Minor,2020,3,9,27.5,OH
+140,Maine,Clear,Afternoon,Serious,2021,1,8,2.2,ME
+141,Idaho,Clear,Night,Fatal,2018,4,5,30.9,ID
+142,New Hampshire,Fog,Afternoon,Minor,2022,3,5,33.1,NH
+143,Michigan,Fog,Night,Fatal,2018,2,0,37.6,MI
+144,Missouri,Rain,Evening,Serious,2018,3,3,29.1,MO
+145,South Dakota,Clear,Morning,Fatal,2022,3,5,0.8,SD
+146,Massachusetts,Fog,Evening,Minor,2020,5,7,25.8,MA
+147,Ohio,Rain,Afternoon,Fatal,2020,2,9,-4.0,OH
+148,California,Rain,Morning,Serious,2018,5,3,16.6,CA
+149,South Dakota,Rain,Night,Minor,2021,4,4,0.4,SD
+150,Delaware,Snow,Evening,Minor,2022,2,9,29.9,DE
+151,Rhode Island,Fog,Afternoon,Fatal,2018,5,6,1.0,RI
+152,Louisiana,Snow,Night,Minor,2021,4,4,-4.5,LA
+153,Ohio,Thunderstorm,Afternoon,Fatal,2020,1,6,27.7,OH
+154,Wisconsin,Thunderstorm,Afternoon,Fatal,2022,5,10,5.3,WI
+155,Montana,Thunderstorm,Evening,Serious,2022,5,1,11.8,MT
+156,Iowa,Fog,Morning,Minor,2018,4,5,33.4,IA
+157,Iowa,Rain,Night,Minor,2021,2,3,30.1,IA
+158,Hawaii,Fog,Evening,Serious,2022,2,2,31.2,HI
+159,Maryland,Rain,Morning,Serious,2021,1,1,-6.9,MD
+160,Alabama,Snow,Evening,Serious,2022,1,0,-10.0,AL
+161,New Hampshire,Thunderstorm,Night,Fatal,2022,2,1,38.4,NH
+162,Kentucky,Clear,Evening,Serious,2022,5,7,30.6,KY
+163,Hawaii,Thunderstorm,Evening,Fatal,2021,4,9,25.9,HI
+164,Wyoming,Rain,Evening,Fatal,2018,4,7,15.1,WY
+165,Florida,Rain,Evening,Serious,2022,1,2,-9.9,FL
+166,Mississippi,Fog,Night,Minor,2019,5,6,-7.0,MS
+167,Vermont,Snow,Night,Serious,2022,1,10,-7.3,VT
+168,Arizona,Clear,Evening,Fatal,2019,5,3,-1.7,AZ
+169,Michigan,Fog,Evening,Minor,2020,2,3,5.6,MI
+170,Connecticut,Clear,Night,Minor,2021,3,4,-6.5,CT
+171,Iowa,Thunderstorm,Afternoon,Serious,2021,4,4,15.3,IA
+172,South Dakota,Thunderstorm,Evening,Minor,2018,5,2,8.5,SD
+173,Oregon,Fog,Afternoon,Serious,2021,2,0,5.1,OR
+174,Maryland,Clear,Night,Serious,2019,4,4,1.2,MD
+175,South Dakota,Rain,Afternoon,Serious,2022,1,8,-4.0,SD
+176,Illinois,Fog,Evening,Serious,2022,1,4,-7.2,IL
+177,Georgia,Fog,Evening,Minor,2022,5,1,6.3,GA
+178,Pennsylvania,Fog,Afternoon,Minor,2022,5,2,38.6,PA
+179,Rhode Island,Rain,Morning,Fatal,2021,4,7,29.7,RI
+180,Iowa,Clear,Evening,Serious,2018,4,3,12.7,IA
+181,South Carolina,Thunderstorm,Evening,Serious,2019,2,5,35.1,SC
+182,New Hampshire,Clear,Morning,Fatal,2021,5,3,-4.3,NH
+183,Texas,Clear,Evening,Fatal,2020,1,4,9.0,TX
+184,Connecticut,Snow,Night,Serious,2021,4,3,27.1,CT
+185,Indiana,Clear,Evening,Minor,2018,4,4,18.7,IN
+186,Wisconsin,Snow,Night,Fatal,2021,5,0,39.5,WI
+187,California,Clear,Evening,Minor,2018,4,3,27.9,CA
+188,Kentucky,Thunderstorm,Morning,Minor,2018,5,3,4.1,KY
+189,Connecticut,Snow,Afternoon,Fatal,2020,5,6,38.0,CT
+190,North Dakota,Snow,Morning,Serious,2018,3,3,34.4,ND
+191,South Carolina,Fog,Night,Minor,2019,5,9,9.9,SC
+192,South Carolina,Rain,Afternoon,Minor,2022,3,3,11.1,SC
+193,Arkansas,Thunderstorm,Morning,Serious,2019,3,1,12.4,AR
+194,Pennsylvania,Fog,Afternoon,Minor,2018,1,5,7.7,PA
+195,New Mexico,Snow,Afternoon,Serious,2022,5,6,5.3,NM
+196,Idaho,Snow,Morning,Fatal,2022,2,4,38.2,ID
+197,California,Rain,Night,Serious,2022,1,0,-6.8,CA
+198,Iowa,Thunderstorm,Afternoon,Fatal,2021,4,9,-7.4,IA
+199,Ohio,Clear,Night,Fatal,2018,4,8,-4.0,OH
+200,Virginia,Clear,Evening,Minor,2019,1,3,22.7,VA
+201,New Hampshire,Clear,Night,Serious,2020,2,6,29.0,NH
+202,Idaho,Rain,Morning,Minor,2022,3,8,-2.2,ID
+203,Idaho,Snow,Morning,Fatal,2019,3,0,36.7,ID
+204,Texas,Clear,Night,Minor,2018,1,0,13.0,TX
+205,South Carolina,Rain,Night,Minor,2022,1,2,-1.3,SC
+206,Maine,Snow,Afternoon,Serious,2018,5,9,11.9,ME
+207,Minnesota,Snow,Night,Serious,2020,2,0,-9.5,MN
+208,Missouri,Fog,Night,Minor,2022,4,2,17.4,MO
+209,New Hampshire,Rain,Evening,Serious,2018,4,0,0.1,NH
+210,Arizona,Snow,Afternoon,Minor,2022,2,2,11.9,AZ
+211,Texas,Clear,Evening,Serious,2018,1,7,-9.0,TX
+212,North Carolina,Fog,Afternoon,Serious,2021,3,8,26.6,NC
+213,New Hampshire,Thunderstorm,Morning,Fatal,2021,5,5,6.5,NH
+214,Rhode Island,Rain,Morning,Serious,2021,5,0,12.9,RI
+215,Virginia,Fog,Night,Fatal,2022,2,5,4.7,VA
+216,West Virginia,Snow,Morning,Fatal,2022,4,5,26.1,WV
+217,Connecticut,Fog,Night,Serious,2020,4,7,28.5,CT
+218,New Jersey,Thunderstorm,Night,Fatal,2022,3,3,27.2,NJ
+219,Virginia,Clear,Afternoon,Fatal,2019,1,8,18.1,VA
+220,Kentucky,Clear,Afternoon,Fatal,2022,2,8,14.1,KY
+221,Arizona,Fog,Evening,Fatal,2018,4,4,10.0,AZ
+222,New York,Snow,Morning,Fatal,2018,5,2,17.6,NY
+223,South Dakota,Thunderstorm,Evening,Serious,2019,2,9,14.4,SD
+224,Wyoming,Rain,Evening,Fatal,2018,2,0,18.6,WY
+225,Arkansas,Snow,Evening,Serious,2021,4,3,35.5,AR
+226,South Dakota,Snow,Morning,Serious,2022,5,9,15.8,SD
+227,New Jersey,Rain,Night,Serious,2021,2,2,33.6,NJ
+228,Illinois,Fog,Night,Minor,2020,1,4,3.2,IL
+229,Oklahoma,Rain,Night,Fatal,2022,3,7,-7.6,OK
+230,Delaware,Fog,Morning,Serious,2019,1,10,13.4,DE
+231,Oklahoma,Fog,Morning,Serious,2022,3,9,3.7,OK
+232,South Carolina,Clear,Afternoon,Minor,2022,3,10,10.0,SC
+233,Oregon,Snow,Night,Serious,2020,2,9,-1.9,OR
+234,Washington,Rain,Afternoon,Minor,2020,4,8,-3.6,WA
+235,Connecticut,Snow,Night,Minor,2018,5,10,-1.0,CT
+236,Massachusetts,Thunderstorm,Evening,Minor,2019,1,0,31.5,MA
+237,Louisiana,Snow,Night,Serious,2020,5,5,21.0,LA
+238,West Virginia,Clear,Morning,Minor,2020,4,7,29.1,WV
+239,Michigan,Rain,Afternoon,Minor,2021,2,7,-9.0,MI
+240,Illinois,Fog,Morning,Minor,2021,2,0,-7.1,IL
+241,Maine,Thunderstorm,Evening,Serious,2018,2,6,14.2,ME
+242,Kansas,Thunderstorm,Evening,Serious,2020,1,6,6.1,KS
+243,South Dakota,Thunderstorm,Morning,Minor,2022,4,7,15.8,SD
+244,Alaska,Snow,Morning,Minor,2020,3,5,12.6,AK
+245,Maryland,Snow,Morning,Fatal,2021,2,8,27.3,MD
+246,Massachusetts,Clear,Night,Minor,2019,3,3,1.0,MA
+247,Tennessee,Snow,Afternoon,Minor,2022,3,8,26.0,TN
+248,New Mexico,Fog,Morning,Serious,2018,4,8,20.1,NM
+249,New Jersey,Clear,Evening,Minor,2018,5,6,11.2,NJ
+250,South Dakota,Thunderstorm,Afternoon,Serious,2022,3,6,31.9,SD
+251,Massachusetts,Fog,Afternoon,Serious,2021,5,10,18.6,MA
+252,New Mexico,Fog,Afternoon,Serious,2021,5,1,6.9,NM
+253,Montana,Fog,Evening,Fatal,2019,5,9,4.3,MT
+254,Utah,Fog,Afternoon,Serious,2019,5,1,6.0,UT
+255,Vermont,Rain,Afternoon,Minor,2020,4,7,33.5,VT
+256,California,Thunderstorm,Night,Minor,2021,3,1,35.9,CA
+257,Hawaii,Clear,Afternoon,Minor,2022,3,3,39.4,HI
+258,Maine,Snow,Morning,Fatal,2022,3,7,25.3,ME
+259,Arkansas,Thunderstorm,Morning,Serious,2018,1,2,11.3,AR
+260,California,Fog,Morning,Serious,2018,5,7,22.8,CA
+261,Kansas,Snow,Evening,Minor,2018,4,3,26.3,KS
+262,Michigan,Snow,Morning,Serious,2019,4,5,25.3,MI
+263,New Jersey,Fog,Night,Fatal,2019,4,1,27.4,NJ
+264,New Hampshire,Fog,Morning,Fatal,2021,3,6,-8.9,NH
+265,North Dakota,Clear,Morning,Minor,2019,4,6,16.8,ND
+266,Arizona,Fog,Night,Serious,2021,1,5,18.0,AZ
+267,Hawaii,Fog,Evening,Minor,2021,3,3,20.3,HI
+268,Oklahoma,Clear,Evening,Serious,2018,2,7,14.5,OK
+269,Pennsylvania,Clear,Morning,Minor,2022,1,1,18.6,PA
+270,South Dakota,Clear,Morning,Serious,2020,4,0,-8.5,SD
+271,New York,Clear,Evening,Fatal,2019,4,4,26.5,NY
+272,Montana,Fog,Afternoon,Minor,2020,5,5,-0.5,MT
+273,North Carolina,Thunderstorm,Evening,Minor,2020,2,6,9.0,NC
+274,Hawaii,Thunderstorm,Evening,Minor,2019,3,6,20.0,HI
+275,South Carolina,Fog,Night,Minor,2019,2,0,9.6,SC
+276,New York,Clear,Morning,Fatal,2020,1,7,7.6,NY
+277,West Virginia,Rain,Afternoon,Minor,2020,5,9,-8.0,WV
+278,New Hampshire,Snow,Afternoon,Fatal,2018,5,5,22.4,NH
+279,Maine,Thunderstorm,Morning,Minor,2020,1,2,27.1,ME
+280,New Jersey,Snow,Evening,Serious,2021,1,8,34.2,NJ
+281,New Mexico,Rain,Night,Serious,2020,2,10,-9.2,NM
+282,Massachusetts,Clear,Evening,Serious,2022,1,6,-5.7,MA
+283,South Dakota,Clear,Afternoon,Serious,2022,5,9,0.1,SD
+284,Hawaii,Fog,Morning,Serious,2020,5,6,-2.7,HI
+285,Indiana,Fog,Evening,Fatal,2022,2,8,-8.6,IN
+286,Massachusetts,Rain,Morning,Serious,2021,5,2,33.4,MA
+287,Vermont,Fog,Evening,Serious,2021,4,3,31.9,VT
+288,Nevada,Clear,Evening,Serious,2018,1,1,-4.6,NV
+289,Indiana,Rain,Evening,Fatal,2022,3,7,33.8,IN
+290,Michigan,Clear,Afternoon,Serious,2020,4,2,3.6,MI
+291,Arizona,Fog,Morning,Fatal,2022,3,0,-0.7,AZ
+292,Georgia,Snow,Morning,Fatal,2022,2,5,23.7,GA
+293,North Carolina,Snow,Evening,Minor,2021,1,7,23.0,NC
+294,Michigan,Snow,Night,Serious,2020,2,7,29.3,MI
+295,Montana,Snow,Afternoon,Fatal,2020,1,2,20.8,MT
+296,New Mexico,Snow,Evening,Minor,2019,5,9,32.5,NM
+297,Utah,Thunderstorm,Afternoon,Serious,2019,4,10,34.4,UT
+298,Texas,Snow,Afternoon,Fatal,2019,5,1,-5.7,TX
+299,Illinois,Snow,Evening,Serious,2021,3,1,20.8,IL
+300,Oklahoma,Thunderstorm,Afternoon,Minor,2020,4,2,-0.9,OK
+301,Michigan,Fog,Morning,Fatal,2022,3,4,19.4,MI
+302,New Hampshire,Clear,Evening,Fatal,2018,2,4,-6.6,NH
+303,Montana,Rain,Morning,Fatal,2018,1,3,15.2,MT
+304,Maine,Clear,Evening,Fatal,2022,3,7,31.8,ME
+305,Illinois,Snow,Evening,Serious,2019,4,3,23.9,IL
+306,Minnesota,Fog,Night,Fatal,2018,5,5,31.3,MN
+307,Nevada,Clear,Evening,Minor,2019,1,8,9.7,NV
+308,North Carolina,Thunderstorm,Evening,Serious,2022,4,10,38.9,NC
+309,Virginia,Fog,Morning,Serious,2021,3,3,-8.0,VA
+310,New Jersey,Fog,Afternoon,Serious,2022,3,6,-2.6,NJ
+311,New Hampshire,Rain,Night,Minor,2021,3,9,15.6,NH
+312,Texas,Fog,Afternoon,Serious,2022,5,5,9.9,TX
+313,Oklahoma,Clear,Evening,Fatal,2018,4,2,2.3,OK
+314,Arkansas,Snow,Night,Serious,2019,2,1,16.2,AR
+315,Nebraska,Fog,Evening,Serious,2022,4,9,7.3,NE
+316,Maine,Fog,Evening,Minor,2018,4,5,-5.8,ME
+317,Michigan,Thunderstorm,Afternoon,Minor,2020,4,1,9.7,MI
+318,Nebraska,Fog,Morning,Serious,2022,5,4,28.9,NE
+319,Vermont,Clear,Morning,Serious,2018,1,5,-9.2,VT
+320,Indiana,Rain,Evening,Serious,2022,1,0,-4.2,IN
+321,North Carolina,Rain,Night,Fatal,2022,4,9,14.6,NC
+322,Missouri,Fog,Morning,Serious,2018,4,10,38.8,MO
+323,South Dakota,Rain,Evening,Minor,2020,3,10,-8.0,SD
+324,Florida,Snow,Afternoon,Fatal,2022,1,5,-2.5,FL
+325,Virginia,Clear,Afternoon,Minor,2021,1,7,36.9,VA
+326,Vermont,Snow,Afternoon,Fatal,2018,1,9,14.7,VT
+327,Massachusetts,Rain,Afternoon,Fatal,2021,1,2,7.5,MA
+328,Rhode Island,Thunderstorm,Afternoon,Serious,2021,3,2,-8.1,RI
+329,Maine,Fog,Night,Minor,2018,1,6,38.8,ME
+330,New York,Clear,Afternoon,Fatal,2022,5,0,-7.4,NY
+331,Georgia,Rain,Evening,Fatal,2018,2,9,35.8,GA
+332,Montana,Clear,Afternoon,Fatal,2018,3,7,19.8,MT
+333,New Hampshire,Fog,Afternoon,Minor,2018,2,8,14.9,NH
+334,South Dakota,Snow,Night,Fatal,2019,5,8,-5.0,SD
+335,Missouri,Snow,Night,Fatal,2018,2,9,32.8,MO
+336,Kansas,Clear,Afternoon,Minor,2022,1,2,6.3,KS
+337,Minnesota,Fog,Night,Fatal,2021,2,10,31.2,MN
+338,New Mexico,Thunderstorm,Afternoon,Minor,2020,1,2,3.8,NM
+339,Maine,Rain,Evening,Minor,2022,1,2,38.2,ME
+340,Connecticut,Rain,Night,Fatal,2020,4,8,31.6,CT
+341,New Mexico,Thunderstorm,Morning,Fatal,2018,3,6,23.3,NM
+342,Pennsylvania,Thunderstorm,Night,Fatal,2022,5,3,-5.6,PA
+343,Massachusetts,Thunderstorm,Afternoon,Serious,2022,4,6,14.9,MA
+344,Hawaii,Rain,Evening,Minor,2019,3,3,21.6,HI
+345,Iowa,Rain,Morning,Serious,2021,5,10,32.0,IA
+346,Maryland,Snow,Night,Minor,2020,2,5,16.8,MD
+347,Mississippi,Clear,Morning,Minor,2018,3,7,-0.1,MS
+348,Georgia,Thunderstorm,Morning,Fatal,2021,2,3,0.1,GA
+349,Arkansas,Clear,Night,Minor,2022,1,4,19.6,AR
+350,New Mexico,Thunderstorm,Morning,Minor,2018,4,0,-4.3,NM
+351,Texas,Fog,Evening,Serious,2018,3,10,12.0,TX
+352,Connecticut,Rain,Afternoon,Fatal,2018,3,8,23.4,CT
+353,Iowa,Snow,Night,Fatal,2020,3,4,-3.5,IA
+354,Oklahoma,Snow,Morning,Minor,2020,5,3,1.1,OK
+355,Virginia,Clear,Afternoon,Fatal,2020,3,7,39.1,VA
+356,Maine,Rain,Afternoon,Minor,2018,4,6,27.0,ME
+357,New Jersey,Clear,Afternoon,Fatal,2021,5,0,13.8,NJ
+358,Wyoming,Thunderstorm,Night,Fatal,2018,5,1,23.9,WY
+359,Kentucky,Thunderstorm,Evening,Minor,2022,2,0,-0.0,KY
+360,Minnesota,Thunderstorm,Afternoon,Serious,2021,4,3,27.9,MN
+361,Ohio,Fog,Afternoon,Fatal,2022,5,1,17.9,OH
+362,Alabama,Thunderstorm,Evening,Minor,2018,3,7,24.9,AL
+363,Georgia,Snow,Night,Serious,2020,4,6,32.4,GA
+364,Iowa,Fog,Night,Minor,2022,2,1,-1.1,IA
+365,Oregon,Rain,Night,Fatal,2019,4,2,36.0,OR
+366,Texas,Rain,Morning,Serious,2019,3,2,9.5,TX
+367,Indiana,Fog,Night,Fatal,2020,5,10,0.9,IN
+368,Oklahoma,Fog,Morning,Fatal,2018,2,7,4.5,OK
+369,Michigan,Fog,Morning,Minor,2022,2,7,11.3,MI
+370,Nevada,Clear,Morning,Minor,2020,5,10,10.9,NV
+371,Louisiana,Fog,Night,Minor,2021,2,8,16.7,LA
+372,North Carolina,Snow,Night,Minor,2021,5,2,26.7,NC
+373,New York,Clear,Night,Minor,2019,3,8,8.7,NY
+374,Colorado,Fog,Morning,Serious,2018,2,7,-3.0,CO
+375,Alabama,Thunderstorm,Evening,Minor,2020,3,8,1.8,AL
+376,Minnesota,Thunderstorm,Morning,Minor,2021,5,9,9.4,MN
+377,Minnesota,Fog,Evening,Minor,2019,2,2,11.9,MN
+378,Idaho,Rain,Evening,Minor,2020,1,2,19.3,ID
+379,New Jersey,Snow,Evening,Fatal,2020,1,6,3.8,NJ
+380,Mississippi,Rain,Afternoon,Minor,2021,3,7,20.7,MS
+381,Wisconsin,Clear,Night,Minor,2019,4,4,26.0,WI
+382,Georgia,Fog,Morning,Serious,2022,3,9,9.2,GA
+383,Oklahoma,Rain,Morning,Minor,2020,4,5,35.8,OK
+384,Tennessee,Fog,Evening,Fatal,2021,3,10,-6.1,TN
+385,Texas,Thunderstorm,Morning,Minor,2018,4,4,1.0,TX
+386,Indiana,Clear,Afternoon,Fatal,2020,1,2,32.5,IN
+387,New Jersey,Thunderstorm,Morning,Minor,2020,5,3,20.6,NJ
+388,Tennessee,Fog,Evening,Fatal,2018,4,1,9.9,TN
+389,Kentucky,Snow,Morning,Minor,2020,3,6,-3.2,KY
+390,Delaware,Rain,Evening,Fatal,2020,2,2,39.6,DE
+391,Oregon,Thunderstorm,Afternoon,Fatal,2022,5,6,6.5,OR
+392,Tennessee,Thunderstorm,Night,Fatal,2022,5,9,30.5,TN
+393,Missouri,Clear,Evening,Fatal,2019,1,1,18.5,MO
+394,Maine,Fog,Afternoon,Fatal,2018,1,6,31.5,ME
+395,California,Snow,Evening,Fatal,2022,2,1,9.9,CA
+396,Arizona,Clear,Evening,Minor,2020,3,7,34.8,AZ
+397,Idaho,Rain,Evening,Serious,2018,3,5,15.4,ID
+398,Iowa,Rain,Morning,Serious,2019,5,3,36.9,IA
+399,Maine,Fog,Morning,Minor,2021,1,9,0.0,ME
+400,Alaska,Clear,Night,Minor,2018,2,5,36.1,AK
+401,New Mexico,Rain,Night,Minor,2020,4,7,8.1,NM
+402,West Virginia,Clear,Evening,Fatal,2021,3,8,6.1,WV
+403,Alabama,Thunderstorm,Afternoon,Fatal,2020,2,4,-8.5,AL
+404,Idaho,Thunderstorm,Evening,Serious,2022,4,2,9.9,ID
+405,Missouri,Snow,Afternoon,Fatal,2018,3,1,7.6,MO
+406,Mississippi,Snow,Evening,Fatal,2018,1,6,24.4,MS
+407,Utah,Snow,Evening,Serious,2021,5,8,29.1,UT
+408,Oklahoma,Clear,Afternoon,Serious,2018,1,9,4.0,OK
+409,New Mexico,Rain,Night,Fatal,2019,2,6,37.3,NM
+410,Louisiana,Snow,Morning,Minor,2020,4,6,15.5,LA
+411,Kansas,Rain,Evening,Minor,2022,3,9,27.6,KS
+412,New Mexico,Thunderstorm,Night,Serious,2020,1,7,25.1,NM
+413,Kansas,Rain,Afternoon,Minor,2019,1,2,29.9,KS
+414,Michigan,Thunderstorm,Evening,Serious,2019,3,9,-8.0,MI
+415,Oregon,Thunderstorm,Night,Minor,2019,3,3,38.8,OR
+416,Iowa,Rain,Morning,Serious,2019,5,10,28.5,IA
+417,Montana,Rain,Morning,Serious,2020,3,1,5.0,MT
+418,Virginia,Thunderstorm,Night,Serious,2021,5,2,23.2,VA
+419,Hawaii,Rain,Evening,Minor,2021,5,5,0.0,HI
+420,Colorado,Fog,Afternoon,Serious,2020,2,5,15.7,CO
+421,Maryland,Snow,Evening,Minor,2022,1,2,-0.2,MD
+422,Missouri,Rain,Afternoon,Serious,2018,3,3,-9.7,MO
+423,Kentucky,Thunderstorm,Evening,Minor,2022,4,4,34.6,KY
+424,Wyoming,Thunderstorm,Night,Fatal,2022,2,3,-9.2,WY
+425,Illinois,Clear,Morning,Minor,2019,2,0,12.3,IL
+426,Hawaii,Rain,Night,Minor,2022,2,10,38.9,HI
+427,Alaska,Clear,Morning,Fatal,2022,5,4,7.1,AK
+428,North Carolina,Fog,Afternoon,Minor,2020,3,8,-2.5,NC
+429,Minnesota,Thunderstorm,Afternoon,Fatal,2021,4,4,8.6,MN
+430,North Dakota,Thunderstorm,Afternoon,Minor,2020,5,4,-2.1,ND
+431,South Dakota,Thunderstorm,Night,Minor,2022,4,10,37.2,SD
+432,Wyoming,Fog,Night,Minor,2019,5,8,4.0,WY
+433,New York,Snow,Morning,Serious,2019,1,2,-2.4,NY
+434,Arkansas,Clear,Night,Minor,2020,5,8,26.8,AR
+435,Montana,Rain,Evening,Fatal,2019,4,6,22.9,MT
+436,Massachusetts,Thunderstorm,Evening,Serious,2019,5,0,9.2,MA
+437,Wisconsin,Clear,Morning,Minor,2020,1,7,34.7,WI
+438,Colorado,Rain,Morning,Minor,2022,5,4,10.4,CO
+439,Colorado,Rain,Evening,Minor,2020,3,4,-6.2,CO
+440,South Dakota,Clear,Afternoon,Serious,2020,4,3,2.5,SD
+441,Nevada,Fog,Morning,Minor,2022,1,2,11.3,NV
+442,Delaware,Fog,Morning,Minor,2021,4,1,5.4,DE
+443,New York,Clear,Afternoon,Serious,2020,3,2,16.1,NY
+444,Wisconsin,Clear,Evening,Fatal,2021,3,1,2.0,WI
+445,Montana,Fog,Night,Fatal,2021,3,5,0.4,MT
+446,Vermont,Snow,Morning,Serious,2020,5,0,-5.9,VT
+447,New York,Snow,Night,Serious,2018,3,0,20.9,NY
+448,Arkansas,Thunderstorm,Night,Fatal,2021,3,10,18.7,AR
+449,New Mexico,Snow,Afternoon,Minor,2019,5,5,32.1,NM
+450,Delaware,Fog,Morning,Serious,2019,1,3,2.1,DE
+451,Montana,Fog,Evening,Fatal,2018,5,5,31.9,MT
+452,Rhode Island,Snow,Afternoon,Serious,2020,3,1,-1.7,RI
+453,Vermont,Clear,Night,Fatal,2018,1,1,11.2,VT
+454,Arkansas,Thunderstorm,Afternoon,Serious,2020,2,0,32.8,AR
+455,Missouri,Fog,Morning,Fatal,2021,3,6,37.7,MO
+456,Maine,Clear,Night,Minor,2021,5,1,12.5,ME
+457,Rhode Island,Fog,Morning,Serious,2021,4,1,14.5,RI
+458,Pennsylvania,Clear,Morning,Minor,2019,1,3,4.3,PA
+459,Nebraska,Fog,Morning,Serious,2019,5,0,27.5,NE
+460,Vermont,Fog,Night,Minor,2022,1,9,5.2,VT
+461,Georgia,Fog,Evening,Serious,2018,2,2,12.3,GA
+462,South Dakota,Snow,Morning,Minor,2018,5,3,-9.1,SD
+463,Wyoming,Rain,Evening,Fatal,2021,2,1,14.0,WY
+464,North Dakota,Fog,Morning,Serious,2021,5,7,21.7,ND
+465,North Dakota,Snow,Morning,Fatal,2019,3,10,7.3,ND
+466,Rhode Island,Snow,Morning,Minor,2019,3,3,14.9,RI
+467,Maryland,Clear,Afternoon,Fatal,2020,1,4,2.6,MD
+468,Wyoming,Clear,Evening,Fatal,2022,3,2,31.2,WY
+469,Massachusetts,Thunderstorm,Night,Serious,2018,1,8,20.9,MA
+470,Kansas,Clear,Morning,Fatal,2018,4,3,25.6,KS
+471,New Jersey,Rain,Evening,Serious,2021,2,0,15.0,NJ
+472,Illinois,Thunderstorm,Night,Fatal,2021,3,2,-5.4,IL
+473,South Carolina,Thunderstorm,Night,Serious,2022,2,0,-2.0,SC
+474,Nevada,Snow,Night,Fatal,2020,2,2,12.5,NV
+475,Nebraska,Thunderstorm,Evening,Fatal,2018,4,3,9.1,NE
+476,Mississippi,Rain,Afternoon,Serious,2021,1,0,-2.0,MS
+477,Iowa,Rain,Morning,Serious,2018,1,6,4.4,IA
+478,Oregon,Fog,Morning,Serious,2018,1,0,11.7,OR
+479,Washington,Rain,Night,Minor,2020,1,10,33.9,WA
+480,Arizona,Clear,Evening,Minor,2020,3,7,8.7,AZ
+481,Ohio,Rain,Night,Minor,2018,5,10,31.6,OH
+482,West Virginia,Snow,Evening,Serious,2018,1,9,31.3,WV
+483,Oregon,Snow,Afternoon,Fatal,2022,3,7,36.5,OR
+484,Indiana,Snow,Evening,Minor,2020,1,6,23.1,IN
+485,South Carolina,Rain,Afternoon,Serious,2018,2,4,0.4,SC
+486,Missouri,Snow,Morning,Serious,2020,2,7,21.3,MO
+487,Arizona,Thunderstorm,Night,Fatal,2021,4,5,4.1,AZ
+488,Colorado,Fog,Night,Fatal,2022,5,9,16.9,CO
+489,Alaska,Clear,Afternoon,Serious,2020,1,5,15.2,AK
+490,New York,Thunderstorm,Afternoon,Minor,2020,2,9,-5.8,NY
+491,Michigan,Snow,Afternoon,Minor,2020,2,6,-4.2,MI
+492,Michigan,Thunderstorm,Evening,Fatal,2019,5,4,28.3,MI
+493,Arkansas,Rain,Evening,Minor,2020,4,4,-8.8,AR
+494,Ohio,Snow,Morning,Fatal,2021,3,3,33.6,OH
+495,South Carolina,Rain,Evening,Minor,2021,2,10,-8.5,SC
+496,New York,Fog,Night,Minor,2020,2,4,30.9,NY
+497,Missouri,Thunderstorm,Evening,Serious,2021,5,1,5.9,MO
+498,Vermont,Fog,Afternoon,Serious,2022,3,6,-2.5,VT
+499,Florida,Rain,Afternoon,Minor,2021,2,1,29.4,FL
+500,New Jersey,Fog,Night,Serious,2019,3,8,-4.6,NJ
+501,Montana,Rain,Afternoon,Fatal,2020,2,8,16.4,MT
+502,California,Snow,Afternoon,Minor,2020,2,0,36.9,CA
+503,South Dakota,Rain,Morning,Fatal,2021,3,0,13.1,SD
+504,Washington,Rain,Night,Minor,2020,3,10,32.0,WA
+505,New Mexico,Snow,Morning,Minor,2019,3,5,25.9,NM
+506,Wyoming,Thunderstorm,Afternoon,Minor,2022,2,2,34.7,WY
+507,Idaho,Thunderstorm,Morning,Serious,2022,4,1,32.2,ID
+508,Connecticut,Thunderstorm,Evening,Serious,2021,1,7,24.5,CT
+509,Montana,Snow,Morning,Minor,2020,5,2,-1.3,MT
+510,Massachusetts,Clear,Afternoon,Fatal,2022,3,4,24.2,MA
+511,Florida,Thunderstorm,Night,Serious,2019,5,6,5.0,FL
+512,South Carolina,Clear,Morning,Serious,2020,5,0,-8.6,SC
+513,Colorado,Snow,Morning,Minor,2022,3,9,18.6,CO
+514,Hawaii,Fog,Evening,Fatal,2022,5,9,26.9,HI
+515,Washington,Snow,Afternoon,Serious,2018,4,10,-4.3,WA
+516,Massachusetts,Thunderstorm,Night,Minor,2018,5,5,-2.5,MA
+517,North Carolina,Snow,Night,Fatal,2021,5,1,21.3,NC
+518,Maryland,Rain,Morning,Minor,2020,4,8,7.5,MD
+519,Colorado,Thunderstorm,Night,Minor,2022,1,4,16.1,CO
+520,Alaska,Snow,Morning,Serious,2022,1,2,7.1,AK
+521,Nebraska,Clear,Night,Fatal,2019,4,6,34.9,NE
+522,Maine,Rain,Morning,Fatal,2022,3,8,34.7,ME
+523,New York,Snow,Night,Minor,2020,1,6,12.1,NY
+524,Iowa,Rain,Afternoon,Minor,2019,4,2,28.2,IA
+525,Delaware,Snow,Morning,Serious,2020,4,7,0.0,DE
+526,Arizona,Clear,Morning,Minor,2021,2,8,35.4,AZ
+527,West Virginia,Snow,Afternoon,Serious,2021,3,4,37.5,WV
+528,South Dakota,Thunderstorm,Afternoon,Serious,2018,1,8,28.9,SD
+529,Idaho,Rain,Morning,Serious,2019,1,3,-2.9,ID
+530,South Dakota,Thunderstorm,Evening,Minor,2019,5,2,28.5,SD
+531,Washington,Thunderstorm,Evening,Minor,2022,3,5,27.0,WA
+532,Missouri,Rain,Evening,Serious,2019,3,10,26.7,MO
+533,Kansas,Thunderstorm,Night,Fatal,2020,4,5,-4.0,KS
+534,Alaska,Fog,Evening,Serious,2020,5,5,-9.4,AK
+535,Virginia,Clear,Afternoon,Serious,2021,5,7,10.9,VA
+536,Nevada,Fog,Night,Minor,2022,3,8,38.9,NV
+537,Wisconsin,Snow,Night,Fatal,2022,3,9,37.5,WI
+538,Massachusetts,Snow,Morning,Minor,2018,3,6,4.4,MA
+539,Pennsylvania,Clear,Afternoon,Minor,2022,1,7,6.0,PA
+540,Florida,Fog,Evening,Minor,2020,1,0,3.6,FL
+541,Oregon,Rain,Evening,Serious,2018,1,2,21.0,OR
+542,New Jersey,Fog,Evening,Fatal,2021,5,8,36.6,NJ
+543,Michigan,Fog,Afternoon,Fatal,2021,1,10,22.9,MI
+544,Indiana,Rain,Evening,Serious,2019,5,8,-6.0,IN
+545,Louisiana,Rain,Night,Minor,2019,4,0,35.6,LA
+546,New York,Fog,Morning,Fatal,2019,3,6,26.2,NY
+547,Nebraska,Snow,Morning,Minor,2020,2,4,4.2,NE
+548,Texas,Rain,Evening,Serious,2022,3,1,32.6,TX
+549,Virginia,Clear,Morning,Fatal,2021,2,10,36.3,VA
+550,Wisconsin,Snow,Night,Minor,2021,4,0,33.1,WI
+551,Arizona,Thunderstorm,Night,Serious,2019,3,10,-2.9,AZ
+552,Maine,Fog,Night,Minor,2018,4,2,30.8,ME
+553,New Mexico,Thunderstorm,Night,Fatal,2018,1,9,14.4,NM
+554,Rhode Island,Rain,Morning,Minor,2021,2,0,10.5,RI
+555,South Dakota,Fog,Afternoon,Minor,2018,2,4,-5.5,SD
+556,Pennsylvania,Clear,Evening,Fatal,2019,3,1,28.2,PA
+557,North Dakota,Rain,Afternoon,Minor,2019,5,0,18.5,ND
+558,Utah,Fog,Morning,Serious,2020,4,9,21.3,UT
+559,Hawaii,Clear,Morning,Fatal,2018,1,3,39.2,HI
+560,Alaska,Clear,Evening,Serious,2020,5,5,32.4,AK
+561,Mississippi,Thunderstorm,Afternoon,Fatal,2020,4,6,26.7,MS
+562,Montana,Clear,Morning,Serious,2019,3,2,38.7,MT
+563,Washington,Thunderstorm,Night,Serious,2018,1,5,15.3,WA
+564,Tennessee,Thunderstorm,Evening,Fatal,2018,3,0,6.6,TN
+565,Minnesota,Fog,Evening,Fatal,2021,5,5,26.4,MN
+566,Kentucky,Thunderstorm,Evening,Minor,2021,5,0,5.0,KY
+567,Illinois,Clear,Morning,Serious,2020,1,1,37.4,IL
+568,Georgia,Snow,Afternoon,Fatal,2019,3,7,22.4,GA
+569,Nevada,Fog,Night,Fatal,2020,3,10,34.3,NV
+570,New Jersey,Clear,Afternoon,Serious,2022,2,2,38.9,NJ
+571,Tennessee,Fog,Morning,Fatal,2021,2,9,36.3,TN
+572,New Mexico,Clear,Afternoon,Fatal,2019,4,7,-7.1,NM
+573,Utah,Clear,Afternoon,Minor,2018,4,4,-2.9,UT
+574,Hawaii,Clear,Morning,Minor,2021,2,0,11.3,HI
+575,Idaho,Thunderstorm,Morning,Minor,2018,4,1,30.4,ID
+576,Wisconsin,Rain,Night,Minor,2021,1,1,35.5,WI
+577,Pennsylvania,Snow,Evening,Fatal,2019,5,8,33.0,PA
+578,Pennsylvania,Snow,Night,Fatal,2019,3,7,16.4,PA
+579,South Dakota,Rain,Morning,Fatal,2021,5,7,-5.8,SD
+580,Michigan,Snow,Evening,Serious,2021,3,3,15.9,MI
+581,Pennsylvania,Rain,Afternoon,Serious,2018,2,9,33.7,PA
+582,Rhode Island,Fog,Morning,Fatal,2022,5,4,33.1,RI
+583,South Carolina,Thunderstorm,Morning,Fatal,2022,1,5,33.5,SC
+584,Iowa,Thunderstorm,Afternoon,Serious,2022,2,8,25.2,IA
+585,Rhode Island,Fog,Morning,Minor,2018,2,5,-3.2,RI
+586,Tennessee,Clear,Morning,Serious,2021,2,5,4.1,TN
+587,Mississippi,Fog,Afternoon,Fatal,2018,2,10,27.9,MS
+588,Ohio,Thunderstorm,Evening,Serious,2018,1,7,35.4,OH
+589,Alabama,Thunderstorm,Afternoon,Serious,2019,2,0,0.3,AL
+590,Michigan,Fog,Night,Serious,2021,2,8,3.1,MI
+591,Wisconsin,Rain,Night,Fatal,2022,4,10,-4.4,WI
+592,Montana,Clear,Afternoon,Serious,2021,5,1,37.1,MT
+593,Delaware,Clear,Night,Minor,2021,2,2,0.6,DE
+594,Florida,Clear,Night,Fatal,2018,5,2,-9.5,FL
+595,Arkansas,Clear,Afternoon,Minor,2018,4,5,-2.6,AR
+596,Virginia,Rain,Night,Minor,2020,2,1,30.8,VA
+597,South Carolina,Clear,Afternoon,Serious,2021,1,9,7.5,SC
+598,Iowa,Clear,Evening,Serious,2019,1,7,-8.4,IA
+599,Illinois,Fog,Afternoon,Fatal,2022,4,0,10.5,IL
+600,Indiana,Thunderstorm,Morning,Serious,2019,1,9,37.9,IN
+601,Michigan,Snow,Afternoon,Minor,2019,5,10,33.1,MI
+602,Massachusetts,Rain,Evening,Serious,2019,2,5,5.3,MA
+603,Delaware,Fog,Morning,Minor,2018,4,9,39.3,DE
+604,North Dakota,Snow,Morning,Fatal,2021,1,3,31.8,ND
+605,New Mexico,Thunderstorm,Night,Minor,2020,5,2,28.4,NM
+606,Tennessee,Fog,Afternoon,Serious,2019,2,4,2.2,TN
+607,New Jersey,Fog,Evening,Serious,2021,2,9,17.5,NJ
+608,New York,Rain,Morning,Minor,2021,4,4,18.5,NY
+609,Rhode Island,Clear,Night,Fatal,2020,4,6,-2.8,RI
+610,Delaware,Thunderstorm,Afternoon,Minor,2020,5,8,24.6,DE
+611,Georgia,Thunderstorm,Afternoon,Fatal,2019,3,10,4.8,GA
+612,Massachusetts,Rain,Evening,Serious,2020,3,0,-5.6,MA
+613,Oregon,Thunderstorm,Evening,Minor,2021,3,7,34.8,OR
+614,Kansas,Clear,Afternoon,Minor,2019,1,6,18.1,KS
+615,Maine,Clear,Morning,Serious,2018,1,8,32.8,ME
+616,Minnesota,Fog,Afternoon,Minor,2022,4,4,-8.4,MN
+617,Alabama,Thunderstorm,Evening,Fatal,2020,4,3,8.5,AL
+618,Virginia,Clear,Night,Fatal,2018,5,7,1.6,VA
+619,Iowa,Fog,Morning,Minor,2021,2,10,33.3,IA
+620,Virginia,Thunderstorm,Evening,Fatal,2018,3,0,30.7,VA
+621,Arizona,Fog,Morning,Fatal,2018,1,4,15.6,AZ
+622,Tennessee,Fog,Afternoon,Minor,2019,5,2,20.9,TN
+623,Idaho,Clear,Morning,Minor,2019,4,2,26.3,ID
+624,Arkansas,Snow,Morning,Serious,2021,1,9,8.8,AR
+625,Georgia,Fog,Morning,Serious,2022,5,7,-1.9,GA
+626,Utah,Fog,Afternoon,Serious,2018,2,9,35.2,UT
+627,Kentucky,Clear,Night,Serious,2019,4,5,-4.7,KY
+628,Idaho,Snow,Night,Fatal,2018,5,6,5.8,ID
+629,Idaho,Clear,Night,Fatal,2020,5,8,-3.2,ID
+630,Washington,Snow,Night,Serious,2022,2,8,6.3,WA
+631,South Carolina,Snow,Morning,Fatal,2022,5,5,9.4,SC
+632,South Carolina,Clear,Afternoon,Minor,2022,3,1,-6.0,SC
+633,Louisiana,Rain,Afternoon,Minor,2021,2,6,1.6,LA
+634,Massachusetts,Thunderstorm,Morning,Serious,2018,3,4,16.8,MA
+635,South Dakota,Snow,Night,Minor,2020,4,9,29.1,SD
+636,Missouri,Clear,Night,Minor,2020,3,8,21.9,MO
+637,Georgia,Fog,Night,Serious,2018,4,3,34.4,GA
+638,New Hampshire,Fog,Night,Minor,2020,1,4,32.9,NH
+639,Delaware,Snow,Evening,Serious,2021,2,10,17.8,DE
+640,North Carolina,Rain,Afternoon,Serious,2020,4,9,5.6,NC
+641,North Carolina,Fog,Evening,Serious,2021,4,5,3.0,NC
+642,Connecticut,Rain,Morning,Minor,2020,4,4,22.1,CT
+643,Mississippi,Rain,Afternoon,Serious,2019,2,6,-8.4,MS
+644,Mississippi,Clear,Afternoon,Minor,2022,1,7,31.5,MS
+645,Texas,Fog,Morning,Serious,2021,4,8,37.9,TX
+646,Louisiana,Rain,Night,Fatal,2022,1,1,3.4,LA
+647,Wisconsin,Thunderstorm,Morning,Fatal,2020,4,10,15.8,WI
+648,Georgia,Clear,Afternoon,Serious,2021,4,8,10.8,GA
+649,Massachusetts,Clear,Afternoon,Minor,2019,2,10,-0.9,MA
+650,Maryland,Thunderstorm,Afternoon,Serious,2019,1,2,14.3,MD
+651,Georgia,Fog,Afternoon,Serious,2021,3,3,18.0,GA
+652,Vermont,Fog,Morning,Minor,2019,5,9,29.5,VT
+653,Florida,Clear,Evening,Fatal,2021,2,0,-3.5,FL
+654,New Mexico,Fog,Afternoon,Fatal,2022,1,10,18.8,NM
+655,Oklahoma,Thunderstorm,Evening,Serious,2018,4,6,38.2,OK
+656,Massachusetts,Snow,Night,Serious,2019,1,7,0.1,MA
+657,Michigan,Fog,Evening,Fatal,2022,1,3,4.8,MI
+658,Georgia,Clear,Night,Fatal,2019,2,6,9.4,GA
+659,North Carolina,Snow,Evening,Fatal,2020,5,4,-6.1,NC
+660,Wisconsin,Clear,Night,Fatal,2019,4,5,-8.6,WI
+661,Ohio,Thunderstorm,Morning,Serious,2020,4,3,15.6,OH
+662,Ohio,Snow,Evening,Minor,2022,2,5,25.3,OH
+663,California,Thunderstorm,Night,Serious,2019,1,4,4.7,CA
+664,Arkansas,Fog,Evening,Serious,2018,5,4,14.3,AR
+665,Minnesota,Fog,Evening,Minor,2022,4,5,8.6,MN
+666,Rhode Island,Thunderstorm,Night,Fatal,2022,3,3,32.1,RI
+667,Arkansas,Clear,Evening,Minor,2018,1,2,-7.5,AR
+668,Florida,Rain,Morning,Serious,2021,1,3,30.1,FL
+669,Rhode Island,Fog,Evening,Serious,2020,1,3,33.1,RI
+670,Hawaii,Rain,Afternoon,Fatal,2021,5,9,3.7,HI
+671,Virginia,Fog,Evening,Fatal,2020,2,6,24.3,VA
+672,Massachusetts,Thunderstorm,Night,Fatal,2018,5,6,-3.0,MA
+673,North Dakota,Rain,Morning,Fatal,2022,4,5,-10.0,ND
+674,Vermont,Clear,Morning,Serious,2021,4,5,14.0,VT
+675,Oregon,Rain,Afternoon,Serious,2020,1,0,-4.8,OR
+676,Montana,Thunderstorm,Morning,Serious,2020,4,4,27.1,MT
+677,Mississippi,Thunderstorm,Evening,Serious,2019,5,2,28.4,MS
+678,Missouri,Clear,Night,Fatal,2021,3,3,28.0,MO
+679,Oklahoma,Fog,Morning,Minor,2021,2,10,13.6,OK
+680,Rhode Island,Thunderstorm,Evening,Fatal,2020,1,6,38.7,RI
+681,New Mexico,Fog,Afternoon,Fatal,2019,4,2,22.2,NM
+682,Kentucky,Fog,Night,Minor,2019,4,0,-9.4,KY
+683,Massachusetts,Fog,Afternoon,Serious,2020,3,3,33.3,MA
+684,Illinois,Snow,Morning,Serious,2021,2,3,26.7,IL
+685,Nevada,Clear,Morning,Serious,2018,4,4,26.0,NV
+686,Tennessee,Fog,Afternoon,Serious,2020,4,6,9.4,TN
+687,South Carolina,Snow,Evening,Fatal,2021,5,0,32.0,SC
+688,Nevada,Clear,Afternoon,Fatal,2021,5,5,35.2,NV
+689,New Mexico,Fog,Morning,Minor,2020,4,0,36.3,NM
+690,Iowa,Thunderstorm,Morning,Serious,2018,3,6,24.7,IA
+691,California,Thunderstorm,Morning,Serious,2021,2,0,25.8,CA
+692,New Mexico,Thunderstorm,Night,Serious,2021,5,9,27.4,NM
+693,Arkansas,Clear,Night,Fatal,2019,4,7,36.4,AR
+694,New Jersey,Fog,Morning,Fatal,2022,2,3,-8.3,NJ
+695,New York,Fog,Afternoon,Fatal,2021,3,4,13.4,NY
+696,Kentucky,Snow,Morning,Minor,2018,4,2,22.3,KY
+697,New Jersey,Fog,Afternoon,Fatal,2019,5,2,0.8,NJ
+698,Nebraska,Fog,Morning,Serious,2018,1,2,5.5,NE
+699,Utah,Thunderstorm,Night,Minor,2018,4,5,25.4,UT
+700,Kentucky,Clear,Evening,Minor,2018,1,5,-6.8,KY
+701,Iowa,Thunderstorm,Afternoon,Fatal,2022,5,6,34.9,IA
+702,Ohio,Rain,Night,Serious,2019,4,3,20.3,OH
+703,South Dakota,Fog,Morning,Minor,2022,2,8,21.0,SD
+704,Washington,Fog,Night,Serious,2019,3,7,25.8,WA
+705,Hawaii,Thunderstorm,Evening,Fatal,2018,5,6,22.2,HI
+706,Texas,Thunderstorm,Evening,Serious,2021,4,7,-4.4,TX
+707,Oregon,Thunderstorm,Morning,Fatal,2018,1,3,-2.8,OR
+708,Rhode Island,Rain,Night,Fatal,2021,5,8,12.8,RI
+709,Wisconsin,Clear,Afternoon,Fatal,2020,4,7,20.7,WI
+710,Connecticut,Fog,Evening,Minor,2021,5,0,20.7,CT
+711,Oregon,Thunderstorm,Afternoon,Fatal,2018,4,9,16.6,OR
+712,Minnesota,Rain,Night,Serious,2021,4,1,23.4,MN
+713,New Hampshire,Rain,Morning,Minor,2019,5,2,24.1,NH
+714,Idaho,Clear,Morning,Serious,2021,2,8,10.8,ID
+715,New York,Snow,Evening,Fatal,2018,5,4,19.0,NY
+716,North Carolina,Thunderstorm,Morning,Minor,2020,4,4,2.5,NC
+717,Kansas,Rain,Night,Serious,2021,4,9,3.0,KS
+718,Michigan,Rain,Night,Minor,2019,2,2,38.0,MI
+719,Montana,Snow,Evening,Fatal,2018,2,10,24.1,MT
+720,Minnesota,Rain,Afternoon,Fatal,2020,5,8,39.0,MN
+721,Rhode Island,Clear,Night,Minor,2018,1,3,18.7,RI
+722,Nevada,Snow,Afternoon,Fatal,2020,1,5,8.1,NV
+723,Nevada,Rain,Evening,Fatal,2021,4,1,16.3,NV
+724,Idaho,Thunderstorm,Night,Minor,2019,5,10,26.9,ID
+725,Connecticut,Rain,Afternoon,Fatal,2018,2,7,17.1,CT
+726,Wisconsin,Clear,Morning,Serious,2020,4,8,27.7,WI
+727,Massachusetts,Clear,Evening,Fatal,2018,3,2,12.1,MA
+728,Oregon,Fog,Night,Serious,2018,5,1,37.6,OR
+729,South Dakota,Fog,Night,Minor,2018,2,3,-8.7,SD
+730,Virginia,Clear,Night,Fatal,2021,3,9,-8.7,VA
+731,Mississippi,Rain,Night,Minor,2018,2,3,9.8,MS
+732,Kentucky,Fog,Night,Minor,2020,5,9,36.4,KY
+733,Delaware,Rain,Evening,Minor,2018,3,8,28.0,DE
+734,New Hampshire,Clear,Afternoon,Minor,2020,5,10,19.6,NH
+735,Wisconsin,Fog,Evening,Serious,2021,4,3,28.2,WI
+736,Kentucky,Rain,Morning,Fatal,2022,4,6,30.1,KY
+737,Vermont,Snow,Evening,Fatal,2019,5,6,19.1,VT
+738,Pennsylvania,Clear,Afternoon,Fatal,2018,3,9,-0.3,PA
+739,Massachusetts,Fog,Night,Fatal,2019,5,10,39.0,MA
+740,Tennessee,Rain,Night,Minor,2022,2,10,20.2,TN
+741,Washington,Rain,Morning,Serious,2020,4,6,15.3,WA
+742,North Carolina,Fog,Afternoon,Serious,2021,1,5,27.9,NC
+743,Texas,Clear,Night,Serious,2020,2,2,17.7,TX
+744,New Mexico,Fog,Afternoon,Fatal,2020,2,9,23.4,NM
+745,Texas,Snow,Night,Fatal,2019,5,10,-1.3,TX
+746,Hawaii,Thunderstorm,Afternoon,Fatal,2020,3,1,11.6,HI
+747,Michigan,Rain,Afternoon,Fatal,2019,4,0,21.3,MI
+748,Kansas,Fog,Evening,Fatal,2021,5,10,16.5,KS
+749,Iowa,Fog,Evening,Fatal,2018,4,1,3.4,IA
+750,Oklahoma,Fog,Evening,Fatal,2018,3,3,0.0,OK
+751,Georgia,Snow,Evening,Serious,2021,4,8,-4.2,GA
+752,Michigan,Rain,Evening,Minor,2022,1,4,14.7,MI
+753,Maine,Thunderstorm,Afternoon,Fatal,2022,2,9,29.7,ME
+754,Vermont,Thunderstorm,Evening,Serious,2018,4,3,9.8,VT
+755,Georgia,Fog,Evening,Serious,2018,2,10,39.0,GA
+756,Vermont,Fog,Afternoon,Minor,2019,4,4,3.3,VT
+757,Hawaii,Rain,Morning,Serious,2021,4,2,-7.9,HI
+758,Tennessee,Clear,Night,Minor,2018,1,10,10.7,TN
+759,Utah,Fog,Night,Minor,2019,3,3,-9.5,UT
+760,Wisconsin,Snow,Morning,Minor,2018,2,2,22.9,WI
+761,Virginia,Snow,Morning,Serious,2020,5,2,15.8,VA
+762,New Jersey,Snow,Evening,Serious,2022,4,3,32.2,NJ
+763,Texas,Thunderstorm,Night,Serious,2022,2,2,-0.0,TX
+764,Massachusetts,Thunderstorm,Morning,Minor,2022,5,5,1.4,MA
+765,Kentucky,Snow,Morning,Fatal,2020,3,5,26.6,KY
+766,New Hampshire,Fog,Night,Minor,2021,3,1,23.1,NH
+767,Maine,Thunderstorm,Night,Minor,2020,4,3,21.1,ME
+768,Mississippi,Fog,Evening,Fatal,2021,3,3,-6.6,MS
+769,North Dakota,Rain,Evening,Fatal,2019,3,2,23.8,ND
+770,Idaho,Fog,Evening,Minor,2019,4,0,9.8,ID
+771,New York,Rain,Morning,Serious,2022,1,7,24.4,NY
+772,Texas,Fog,Night,Fatal,2022,2,9,30.6,TX
+773,North Dakota,Rain,Evening,Minor,2020,2,1,30.0,ND
+774,Wisconsin,Thunderstorm,Afternoon,Minor,2022,3,7,-6.8,WI
+775,Oregon,Thunderstorm,Morning,Fatal,2018,3,8,29.4,OR
+776,Michigan,Thunderstorm,Evening,Serious,2018,4,6,25.2,MI
+777,Delaware,Clear,Morning,Serious,2021,3,8,-4.8,DE
+778,Maine,Rain,Evening,Minor,2020,1,0,13.7,ME
+779,Nevada,Thunderstorm,Morning,Serious,2021,1,8,3.2,NV
+780,Massachusetts,Clear,Night,Serious,2019,1,6,20.5,MA
+781,Wyoming,Snow,Evening,Fatal,2020,2,8,22.8,WY
+782,North Dakota,Rain,Afternoon,Serious,2022,5,7,3.8,ND
+783,Illinois,Clear,Afternoon,Minor,2022,5,10,38.9,IL
+784,Arkansas,Rain,Evening,Minor,2019,1,2,1.9,AR
+785,Missouri,Rain,Night,Minor,2022,1,5,31.5,MO
+786,Michigan,Fog,Morning,Fatal,2019,4,3,3.9,MI
+787,Connecticut,Thunderstorm,Afternoon,Minor,2018,2,2,7.6,CT
+788,Vermont,Rain,Afternoon,Minor,2019,2,1,20.6,VT
+789,Texas,Fog,Morning,Fatal,2020,2,9,15.1,TX
+790,Tennessee,Snow,Evening,Minor,2020,4,9,26.0,TN
+791,Michigan,Snow,Afternoon,Fatal,2018,3,5,20.4,MI
+792,Texas,Clear,Morning,Fatal,2022,1,8,-3.7,TX
+793,Maine,Snow,Morning,Minor,2022,5,3,37.7,ME
+794,Utah,Thunderstorm,Night,Minor,2020,3,8,31.1,UT
+795,Louisiana,Thunderstorm,Afternoon,Fatal,2021,1,3,2.6,LA
+796,Wyoming,Clear,Afternoon,Serious,2019,1,1,3.3,WY
+797,South Carolina,Fog,Afternoon,Fatal,2021,5,0,10.4,SC
+798,Rhode Island,Clear,Afternoon,Minor,2022,5,9,-8.9,RI
+799,Alabama,Thunderstorm,Afternoon,Serious,2021,1,7,1.1,AL
+800,South Carolina,Clear,Evening,Fatal,2018,5,6,-2.7,SC
+801,Missouri,Thunderstorm,Afternoon,Minor,2019,3,2,20.5,MO
+802,Nebraska,Fog,Morning,Fatal,2020,5,5,-2.3,NE
+803,Maine,Rain,Evening,Minor,2020,2,0,6.3,ME
+804,Missouri,Thunderstorm,Night,Serious,2021,4,10,-7.6,MO
+805,Utah,Fog,Night,Fatal,2021,3,6,-5.4,UT
+806,Ohio,Snow,Morning,Serious,2022,2,8,31.9,OH
+807,Ohio,Clear,Evening,Fatal,2022,1,6,3.5,OH
+808,Missouri,Rain,Morning,Fatal,2020,3,2,39.2,MO
+809,Pennsylvania,Fog,Afternoon,Minor,2022,4,1,-7.9,PA
+810,Nebraska,Fog,Afternoon,Fatal,2022,3,0,10.1,NE
+811,Wyoming,Thunderstorm,Night,Fatal,2021,3,7,-4.2,WY
+812,Delaware,Thunderstorm,Morning,Serious,2022,1,10,-0.7,DE
+813,Oregon,Snow,Morning,Serious,2021,5,5,16.9,OR
+814,Hawaii,Clear,Morning,Serious,2018,5,6,16.9,HI
+815,New York,Rain,Morning,Serious,2018,2,4,10.3,NY
+816,Alabama,Clear,Morning,Serious,2020,4,2,38.3,AL
+817,Utah,Thunderstorm,Morning,Serious,2021,1,4,-5.6,UT
+818,Michigan,Snow,Evening,Serious,2018,1,3,22.5,MI
+819,Florida,Thunderstorm,Afternoon,Fatal,2018,3,3,38.1,FL
+820,Georgia,Snow,Afternoon,Minor,2022,1,3,25.9,GA
+821,Nevada,Rain,Afternoon,Minor,2021,5,8,-5.3,NV
+822,Minnesota,Snow,Night,Fatal,2022,1,3,31.2,MN
+823,Texas,Snow,Night,Minor,2020,5,10,24.4,TX
+824,New Mexico,Thunderstorm,Morning,Fatal,2021,5,10,-1.8,NM
+825,New Hampshire,Clear,Evening,Minor,2018,1,3,35.2,NH
+826,Alabama,Rain,Evening,Minor,2019,5,5,0.1,AL
+827,New York,Rain,Evening,Serious,2022,2,9,19.4,NY
+828,Missouri,Thunderstorm,Afternoon,Serious,2021,3,1,19.8,MO
+829,Oklahoma,Rain,Evening,Fatal,2019,2,9,5.1,OK
+830,Kentucky,Rain,Morning,Minor,2018,2,1,6.5,KY
+831,Wisconsin,Rain,Morning,Serious,2021,1,9,6.0,WI
+832,Illinois,Clear,Morning,Serious,2018,3,7,-3.5,IL
+833,Nevada,Snow,Afternoon,Minor,2020,4,4,10.5,NV
+834,Michigan,Fog,Evening,Serious,2022,3,4,2.8,MI
+835,Minnesota,Clear,Evening,Minor,2021,2,5,7.6,MN
+836,Florida,Rain,Night,Serious,2022,2,2,-4.0,FL
+837,Kentucky,Thunderstorm,Afternoon,Serious,2019,4,5,26.0,KY
+838,Alabama,Snow,Evening,Minor,2022,3,8,21.1,AL
+839,Pennsylvania,Clear,Evening,Minor,2018,4,3,-9.9,PA
+840,South Carolina,Thunderstorm,Afternoon,Minor,2018,4,4,38.5,SC
+841,New Mexico,Clear,Night,Minor,2018,4,4,35.4,NM
+842,Idaho,Fog,Night,Serious,2020,4,3,24.0,ID
+843,Mississippi,Fog,Morning,Minor,2018,3,3,21.5,MS
+844,Montana,Rain,Night,Minor,2019,5,7,-8.8,MT
+845,North Carolina,Rain,Afternoon,Fatal,2018,3,2,-8.7,NC
+846,Pennsylvania,Snow,Morning,Fatal,2019,3,9,28.7,PA
+847,Louisiana,Rain,Night,Serious,2018,2,5,34.2,LA
+848,Alabama,Snow,Afternoon,Serious,2021,5,1,-0.0,AL
+849,Nebraska,Thunderstorm,Night,Serious,2018,5,7,14.6,NE
+850,Michigan,Rain,Afternoon,Serious,2022,1,9,1.1,MI
+851,West Virginia,Fog,Night,Fatal,2020,5,10,16.0,WV
+852,Iowa,Clear,Morning,Serious,2021,5,0,11.1,IA
+853,Maine,Snow,Afternoon,Fatal,2022,5,9,20.8,ME
+854,Ohio,Clear,Evening,Fatal,2021,5,7,34.7,OH
+855,Kentucky,Snow,Night,Minor,2020,2,3,30.4,KY
+856,Nebraska,Thunderstorm,Night,Serious,2021,1,0,35.9,NE
+857,Iowa,Rain,Night,Minor,2020,1,4,8.6,IA
+858,Georgia,Clear,Afternoon,Fatal,2019,3,7,20.4,GA
+859,Louisiana,Snow,Afternoon,Fatal,2018,4,4,26.1,LA
+860,Iowa,Snow,Afternoon,Minor,2022,4,10,25.8,IA
+861,Oregon,Thunderstorm,Afternoon,Minor,2021,1,4,15.6,OR
+862,North Dakota,Snow,Night,Minor,2020,5,5,11.3,ND
+863,South Carolina,Clear,Afternoon,Fatal,2020,1,9,39.7,SC
+864,Virginia,Snow,Night,Serious,2018,1,2,23.5,VA
+865,Georgia,Thunderstorm,Afternoon,Serious,2019,5,8,4.6,GA
+866,Florida,Rain,Night,Serious,2022,1,5,8.9,FL
+867,Arizona,Thunderstorm,Night,Minor,2022,1,6,-4.8,AZ
+868,Illinois,Snow,Morning,Fatal,2018,1,3,-3.3,IL
+869,North Dakota,Snow,Evening,Serious,2022,2,8,15.3,ND
+870,North Carolina,Snow,Evening,Fatal,2022,2,7,8.5,NC
+871,Hawaii,Thunderstorm,Evening,Minor,2020,5,10,0.5,HI
+872,Nevada,Rain,Morning,Minor,2021,2,2,21.2,NV
+873,Hawaii,Thunderstorm,Morning,Serious,2019,1,9,15.5,HI
+874,Utah,Snow,Afternoon,Fatal,2021,2,6,14.8,UT
+875,Mississippi,Fog,Evening,Serious,2019,2,2,0.6,MS
+876,New Jersey,Fog,Evening,Serious,2018,5,10,17.2,NJ
+877,Wyoming,Rain,Night,Fatal,2020,2,1,15.4,WY
+878,Arkansas,Snow,Afternoon,Minor,2018,2,6,10.5,AR
+879,South Carolina,Thunderstorm,Evening,Serious,2022,2,7,1.1,SC
+880,Maine,Clear,Afternoon,Serious,2018,4,5,28.5,ME
+881,New York,Thunderstorm,Night,Fatal,2022,4,7,31.6,NY
+882,New York,Fog,Morning,Minor,2019,2,6,29.3,NY
+883,Georgia,Snow,Night,Minor,2020,2,2,24.5,GA
+884,Virginia,Fog,Evening,Minor,2020,1,7,18.2,VA
+885,Nevada,Snow,Afternoon,Serious,2022,2,8,-0.8,NV
+886,Florida,Clear,Night,Fatal,2018,5,9,28.3,FL
+887,Missouri,Clear,Night,Minor,2018,5,6,21.9,MO
+888,Minnesota,Clear,Night,Minor,2021,2,2,15.8,MN
+889,Illinois,Clear,Evening,Fatal,2018,4,3,30.9,IL
+890,Arizona,Clear,Evening,Fatal,2019,1,3,19.0,AZ
+891,Kentucky,Rain,Morning,Fatal,2021,3,2,35.5,KY
+892,Arkansas,Thunderstorm,Evening,Serious,2021,4,4,8.4,AR
+893,South Dakota,Snow,Morning,Serious,2020,1,4,26.8,SD
+894,South Dakota,Thunderstorm,Afternoon,Minor,2022,1,4,25.4,SD
+895,Maine,Snow,Morning,Fatal,2019,5,9,13.4,ME
+896,New Mexico,Thunderstorm,Night,Minor,2019,4,6,38.9,NM
+897,New Mexico,Fog,Afternoon,Fatal,2018,5,5,20.4,NM
+898,Rhode Island,Snow,Afternoon,Serious,2022,1,6,-5.7,RI
+899,Alabama,Thunderstorm,Morning,Fatal,2018,1,0,22.2,AL
+900,Illinois,Thunderstorm,Afternoon,Minor,2019,1,2,7.7,IL
+901,Oklahoma,Rain,Morning,Serious,2022,2,1,16.2,OK
+902,Montana,Clear,Night,Serious,2021,1,9,17.7,MT
+903,West Virginia,Snow,Evening,Minor,2021,1,9,12.6,WV
+904,Rhode Island,Thunderstorm,Night,Minor,2021,4,6,25.9,RI
+905,New Mexico,Snow,Evening,Minor,2019,3,6,15.2,NM
+906,Washington,Fog,Evening,Fatal,2018,5,3,17.2,WA
+907,California,Rain,Morning,Minor,2021,1,6,-5.5,CA
+908,Colorado,Fog,Afternoon,Minor,2022,5,0,4.5,CO
+909,Utah,Fog,Night,Minor,2018,3,5,37.4,UT
+910,Maryland,Snow,Evening,Minor,2019,4,0,6.9,MD
+911,North Dakota,Clear,Night,Minor,2021,4,8,27.1,ND
+912,Tennessee,Fog,Evening,Fatal,2022,3,2,15.1,TN
+913,Utah,Rain,Morning,Serious,2018,3,9,38.1,UT
+914,California,Thunderstorm,Morning,Minor,2020,2,3,35.5,CA
+915,Florida,Fog,Morning,Serious,2020,2,2,29.6,FL
+916,Massachusetts,Rain,Evening,Minor,2021,2,1,34.9,MA
+917,Alaska,Thunderstorm,Afternoon,Minor,2022,4,5,3.2,AK
+918,Missouri,Thunderstorm,Afternoon,Serious,2020,5,7,13.2,MO
+919,North Carolina,Rain,Morning,Fatal,2018,3,3,12.0,NC
+920,Tennessee,Thunderstorm,Morning,Fatal,2022,2,8,34.8,TN
+921,New Jersey,Thunderstorm,Morning,Minor,2019,1,8,31.2,NJ
+922,Virginia,Snow,Evening,Minor,2022,3,8,12.3,VA
+923,Rhode Island,Rain,Morning,Minor,2021,5,4,21.2,RI
+924,Minnesota,Thunderstorm,Afternoon,Minor,2019,2,1,-5.8,MN
+925,Montana,Clear,Night,Serious,2018,3,1,5.1,MT
+926,North Dakota,Clear,Afternoon,Serious,2019,4,9,-6.5,ND
+927,Florida,Rain,Morning,Fatal,2019,4,5,8.0,FL
+928,Louisiana,Clear,Night,Minor,2019,5,2,11.0,LA
+929,Nebraska,Fog,Morning,Minor,2020,4,10,23.2,NE
+930,Virginia,Fog,Morning,Minor,2018,5,3,18.2,VA
+931,Nevada,Rain,Morning,Minor,2020,4,2,1.4,NV
+932,Oregon,Snow,Afternoon,Serious,2021,3,9,6.4,OR
+933,West Virginia,Clear,Evening,Fatal,2019,1,3,33.5,WV
+934,Oregon,Fog,Night,Minor,2021,1,2,6.4,OR
+935,Wyoming,Thunderstorm,Afternoon,Fatal,2020,4,2,-9.3,WY
+936,Nevada,Snow,Night,Fatal,2020,5,4,-8.7,NV
+937,Tennessee,Rain,Night,Minor,2019,4,1,0.0,TN
+938,Idaho,Snow,Morning,Fatal,2019,1,0,36.6,ID
+939,Kentucky,Snow,Night,Fatal,2020,1,5,23.5,KY
+940,Alaska,Thunderstorm,Evening,Serious,2022,5,9,25.9,AK
+941,Wisconsin,Clear,Morning,Minor,2022,2,3,29.2,WI
+942,Missouri,Rain,Morning,Minor,2022,5,4,38.0,MO
+943,Oregon,Thunderstorm,Morning,Serious,2020,5,8,38.0,OR
+944,New York,Clear,Afternoon,Fatal,2019,5,1,36.4,NY
+945,Rhode Island,Rain,Morning,Minor,2022,2,9,36.9,RI
+946,Indiana,Rain,Night,Serious,2021,3,3,34.9,IN
+947,Vermont,Fog,Afternoon,Fatal,2018,5,1,30.3,VT
+948,Colorado,Rain,Night,Serious,2020,2,1,5.8,CO
+949,California,Fog,Morning,Fatal,2018,3,3,28.7,CA
+950,Maryland,Fog,Night,Serious,2018,1,6,22.9,MD
+951,North Dakota,Snow,Morning,Minor,2018,3,6,37.4,ND
+952,Minnesota,Clear,Afternoon,Serious,2021,1,3,28.3,MN
+953,Indiana,Rain,Morning,Fatal,2019,1,4,16.8,IN
+954,Colorado,Fog,Afternoon,Fatal,2018,1,3,8.2,CO
+955,New York,Clear,Morning,Minor,2019,2,6,18.5,NY
+956,Arkansas,Clear,Afternoon,Fatal,2021,5,10,15.4,AR
+957,Maine,Rain,Night,Serious,2019,5,4,1.6,ME
+958,Missouri,Fog,Evening,Serious,2018,4,7,-4.3,MO
+959,Utah,Snow,Morning,Serious,2019,4,5,20.3,UT
+960,Alabama,Rain,Night,Minor,2018,4,5,-1.4,AL
+961,North Carolina,Rain,Morning,Fatal,2022,1,4,31.5,NC
+962,Illinois,Snow,Night,Fatal,2018,4,9,-8.8,IL
+963,Nevada,Clear,Evening,Fatal,2020,5,4,39.8,NV
+964,Maine,Snow,Morning,Minor,2021,3,9,-7.6,ME
+965,Nevada,Fog,Afternoon,Fatal,2022,4,8,12.4,NV
+966,Colorado,Snow,Afternoon,Fatal,2021,3,4,-9.8,CO
+967,Colorado,Thunderstorm,Evening,Serious,2022,4,0,38.6,CO
+968,Louisiana,Thunderstorm,Night,Fatal,2021,5,2,27.6,LA
+969,Arizona,Snow,Morning,Serious,2021,2,3,25.7,AZ
+970,California,Snow,Evening,Minor,2019,4,0,15.0,CA
+971,Idaho,Thunderstorm,Morning,Serious,2022,3,3,-4.2,ID
+972,Minnesota,Clear,Evening,Serious,2021,2,8,13.8,MN
+973,Massachusetts,Clear,Night,Minor,2020,4,6,-8.3,MA
+974,Massachusetts,Fog,Evening,Fatal,2019,4,3,29.9,MA
+975,Idaho,Thunderstorm,Morning,Minor,2022,1,0,16.7,ID
+976,Wisconsin,Clear,Night,Fatal,2021,1,10,0.7,WI
+977,Pennsylvania,Thunderstorm,Night,Serious,2021,4,3,32.1,PA
+978,Arkansas,Fog,Morning,Minor,2020,2,3,16.4,AR
+979,Alabama,Snow,Afternoon,Minor,2018,1,6,0.8,AL
+980,Maine,Thunderstorm,Evening,Minor,2022,4,6,-7.9,ME
+981,Texas,Thunderstorm,Afternoon,Fatal,2022,3,2,1.5,TX
+982,North Dakota,Thunderstorm,Afternoon,Fatal,2018,4,4,19.3,ND
+983,North Dakota,Fog,Afternoon,Minor,2018,3,2,28.7,ND
+984,Alabama,Fog,Night,Serious,2018,1,9,-7.0,AL
+985,Wyoming,Rain,Afternoon,Minor,2018,3,9,13.0,WY
+986,Rhode Island,Rain,Night,Serious,2018,4,7,-1.1,RI
+987,Arizona,Thunderstorm,Night,Serious,2021,4,4,11.9,AZ
+988,Wyoming,Snow,Evening,Fatal,2021,1,3,10.3,WY
+989,Rhode Island,Fog,Night,Minor,2022,2,7,-8.8,RI
+990,Washington,Fog,Morning,Fatal,2020,2,5,33.3,WA
+991,Colorado,Fog,Night,Minor,2020,4,4,21.8,CO
+992,Arkansas,Snow,Evening,Fatal,2020,5,3,5.8,AR
+993,Missouri,Clear,Night,Minor,2021,1,8,-4.6,MO
+994,Arizona,Clear,Afternoon,Serious,2018,2,3,39.8,AZ
+995,Ohio,Rain,Morning,Serious,2020,2,2,21.8,OH
+996,Colorado,Clear,Night,Serious,2019,2,8,23.7,CO
+997,Kentucky,Fog,Afternoon,Serious,2022,1,10,27.7,KY
+998,Texas,Snow,Morning,Minor,2021,1,0,2.3,TX
+999,Connecticut,Snow,Night,Fatal,2022,5,2,17.4,CT
+1000,Arizona,Snow,Afternoon,Fatal,2019,2,6,38.4,AZ
